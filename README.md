@@ -20,4 +20,4 @@ npm run build```
 
 ## Credits
 
-Boilerplate from (webgpu-typescript-starter)[https://github.com/shrekshao/webgpu-typescript-starter].
+Boilerplate from [webgpu-typescript-starter](https://github.com/shrekshao/webgpu-typescript-starter).
