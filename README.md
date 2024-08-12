@@ -15,7 +15,7 @@ npm run dev
 ### Build
 
 ```sh
-npm run build```
+npm run build
 ```
 
 ## Credits
